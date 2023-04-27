@@ -43,7 +43,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        maven.Main
+                                        Maven.Main
                                     </mainClass>
                                 </manifest>
                             </archive>
